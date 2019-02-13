@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+    
+    <string-array name="superheroes">
+
+        <item>Ironman</item>
+        <item>Batman</item>
+        <item>Superman</item>
+        <item>Thor</item>
+        <item>Hulk</item>
+        <item>Wonderwoman</item>
+        <item>Flash</item>
+        <item>CaptainAmaerica</item>
+        <item>DoctorStrange</item>
+        <item>Antman</item>
+        <item>Spiderman</item>
+
+
+
+    </string-array>
+</resources>

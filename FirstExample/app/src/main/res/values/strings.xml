@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstExample</string>
+    <string name="edit_msg">Enter a name</string>
+    <string name="btn_name">Send</string>
+    <string name="text_msg">Welcome to Second activity</string>
+
+
+</resources>
